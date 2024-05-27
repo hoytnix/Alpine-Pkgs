@@ -6,5 +6,5 @@
 
 * Pipe package list to file.
 
-    apk info > packages.txt
+```apk info > packages.txt```
 
